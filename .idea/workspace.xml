@@ -1,0 +1,2258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c180a047-6e94-49ac-b7b1-32cbeba09b75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/Stream/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/aTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/b2test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/bTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/cTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/dTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/mountain$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/mountain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/test2/Atest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/test2/Btest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/test2/MinMax$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/test2/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/ac/test2/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/Spin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/decisionRepeat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/decisionRepeat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/delete0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/getInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/getSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/replaceStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/String/transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/TreeNode/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/TreeNode/sumNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/Anti_clockwise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/LookupTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/NodeTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/P_M_LBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/RemoveNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/SerailizeTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/ac2tree/tree_arraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/acstack/StackMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/acstack/StackReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/acstack/acstack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/acstack/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/array/AllSquence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/array/Enevlops$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/array/Enevlops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/linkedlist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/linkedlist/YuesefuQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/linkedlist/getSqueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/linkedlist/reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/linkedlist/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/ChangeNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/ChangeNum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/ChangeNum3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/ChangeNum4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/MartinMinDidtance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/MatrixPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/MinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/MinChange2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/MinChange2Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/MinChange3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/martix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/matrix/martix_k.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/WeightedRoundrobin/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/WeightedRoundrobin/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/WeightedRoundrobin/WeightedRoundRobin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/WeightedRoundrobin/WeightedRoundRobin$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/WeightedRoundrobin/WeightedRoundRobin$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/WeightedRoundrobin/WeightedRoundRobin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/BlockThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/BlockThreadPool$CustomRejectedExecutionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/BlockThreadPool$CustomThreadFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/BlockThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/FileEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/FileEntityComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/LargeFileSort$divWorkTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/LargeFileSort$generateFileTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/LargeFileSort$mergeTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/LargeFileSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/LineComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/project/dealbigdata/OutMemary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/recursion/DistanceEdit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/recursion/backpack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/HeapSortCover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/MergeSortSquence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/MergeSortSquenceCover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/QuickSquenceConver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/quickSquence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/radixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/arithmetic/seqencing/radixSortCover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/ConcurrentHashMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/CountExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/Print100$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/Print100$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/Print100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/SquenceMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/Synchronizetest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/Synchronizetest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/Synchronizetest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/TwoThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/TwoThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/WaitNotify$Notify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/WaitNotify$Wait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/WaitNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/ZeroEvenOdd$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/ZeroEvenOdd$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/ZeroEvenOdd$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/concurrent/ZeroEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/SpecialStructAndMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/backtrack/HeapSquence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/backtrack/QuickSquence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/binaryTree/DeleteTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/binaryTree/DeletetreeNode2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/binaryTree/SerratedTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/binaryTree/TraverseNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/binaryTree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/binaryTree/leastParent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/linkList/CommonNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/linkList/LinkedListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/linkList/ReverseNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/linkList/SquenceNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/martix/AllPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/martix/NextPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/martix/Nqueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/martix/Rain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/martix/ThreeNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/martix/province.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/martix/rorateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/squence/HeapSquence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/squence/QuickSquence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/string/CommonPre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/string/Inclusion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/string/IpRecover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/string/NoDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/string/menuString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/string/reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/gongdao2021/testmain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/javaCore/Interface_proxy$Tracehandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/javaCore/Interface_proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/javaCore/concurrent/Concurrent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/javaCore/concurrent/Concurrent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/javaCore/lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/javaCore/lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/HeapOutOfMemory$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/HeapOutOfMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/RuntimeconstantPoolOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/StackOverFlowError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/Stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/SynAddRunalbe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/classload/ClassLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/classload/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/classload/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/monitor$Jconsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/jvm/monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/Adapter/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/Adapter/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/Adapter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/Adapter/Turkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/Adapter/TurkeyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/Adapter/WildTurkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/classAdapter/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/classAdapter/ConcreteTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/classAdapter/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/classAdapter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/adapterAll/classAdapter/adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/chainresponsibility/AbstractHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/chainresponsibility/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/chainresponsibility/MyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/chainresponsibility/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/command/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/command/MyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/command/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/command/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/factory/MailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/factory/Provider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/factory/SMSSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/factory/SendSMSFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/factory/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/factory/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/factory/sendMailFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/staticFactory/BeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/staticFactory/MailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/staticFactory/SMSSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/factory/staticFactory/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/iterator/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/iterator/MyCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/iterator/MyIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/iterator/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/iteratorAndGroup/MenuComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/iteratorAndGroup/MenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/listen/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/listen/ImPersonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/listen/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/listen/PersonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/listen/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/subscribe/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/subscribe/ObserverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/subscribe/Observerable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/subscribe/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/observer/subscribe/WechatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/dynamicProxy/ClientTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/dynamicProxy/DynamicProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/dynamicProxy/RealSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/dynamicProxy/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/proxy/ProxyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/proxy/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/proxy/Sourceable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/proxytotal/proxy/proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/strategy/AbstractCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/strategy/ICalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/strategy/Minus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/strategy/Multiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/strategy/Plus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/strategy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/templatemethond/AbstractCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/templatemethond/Plus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/pattern/templatemethond/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/spring/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/spring/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/spring/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/spring/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/spring/reafect$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practices/spring/reafect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrent/Print100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrent/Print100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrent/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrent/WaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gongdao2021/backtrack/HeapSquence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gongdao2021/backtrack/QuickSquence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gongdao2021/linkList/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gongdao2021/linkList/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gongdao2021/squence/HeapSquence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gongdao2021/squence/HeapSquence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gongdao2021/squence/MergeSquence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gongdao2021/squence/MergeSquence.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/practices$SerailizeTree.ic" NAME="SerailizeTree Coverage Results" MODIFIED="1552985184497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ac.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/practices$quickSquence.ic" NAME="quickSquence Coverage Results" MODIFIED="1561019973048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arithmetic.seqencing.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/practices$MinChange3.ic" NAME="MinChange3 Coverage Results" MODIFIED="1553666436044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>matrix.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/practices$Test.ic" NAME="Test Coverage Results" MODIFIED="1597976609767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arithmetic.project.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="275" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-793577919">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="8" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ConcurrentHashMap" value="2" />
+          <entry key="EntrySetView" value="1" />
+          <entry key="ExpandedNameTable" value="1" />
+          <entry key="HashEntry" value="1" />
+          <entry key="System" value="1" />
+          <entry key="class" value="12" />
+          <entry key="java" value="454" />
+          <entry key="动态代理和静态代理的不同" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="12" />
+          <entry key="JAVA" value="454" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="UML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="19" />
+          <entry key="java" value="48408" />
+          <entry key="动态代理和静态代理的不同" value="155" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="48408" />
+          <entry key="PLAIN_TEXT" value="174" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-232043792">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="197" />
+          <entry key="相关方法" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="197" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="java" value="25957" />
+          <entry key="相关方法" value="147" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="25957" />
+          <entry key="PLAIN_TEXT" value="163" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gongdao2021/thread/FizzBuzz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/concurrent/ConcurrentHashMapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gongdao2021/thread/ThreeThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrent/ZeroEvenOdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="101" column="30" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gongdao2021/thread/H2O.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk8/src.zip!/java/lang/UnsupportedOperationException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="115" column="44" selection-start-line="115" selection-start-column="39" selection-end-line="115" selection-end-column="65" />
+              <folding>
+                <element signature="e#8176#8177#0" expanded="true" />
+                <element signature="e#8216#8217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17402">
+              <caret line="836" column="36" selection-start-line="836" selection-start-column="36" selection-end-line="836" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/Condition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7436">
+              <caret line="372" column="12" selection-start-line="372" selection-start-column="12" selection-end-line="372" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrent/Print100.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="47" column="39" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="yet_unknown" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iterator</find>
+      <find>isempty</find>
+      <find>pop</find>
+      <find>ceil</find>
+      <find>toA</find>
+      <find>toArray</find>
+      <find>toCharA</find>
+      <find>Compare</find>
+      <find>hash</find>
+      <find>corePoolSIze</find>
+      <find>exchanger</find>
+      <find>remove</find>
+      <find>TreeNode</find>
+      <find>add</find>
+      <find>Node</find>
+      <find>Tree</find>
+      <find>prev</find>
+      <find>resized</find>
+      <find>resize</find>
+      <find>resiz</find>
+      <find>segment</find>
+      <find>segme</find>
+      <find>Entry</find>
+      <find>put</find>
+      <find>await</find>
+      <find>re</find>
+      <find>TIMED_</find>
+      <find>status</find>
+      <find>Sync</find>
+      <find>acquireQueued</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/concurrent/ZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/spring/Test3.java" />
+        <option value="$PROJECT_DIR$/src/ac/test2/MinMax.java" />
+        <option value="$PROJECT_DIR$/src/arithmetic/TreeNode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/arithmetic/TreeNode/sumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/DeleteTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/backtrack/HeapSenquce.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/binaryTree/DeleteTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/binaryTree/DeletetreeNode2.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/相关方法" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/binaryTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/binaryTree/SerratedTree.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/linkList/LinkedListNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/linkList/ReverseNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/linkList/CommonNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/linkList/SquenceNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/binaryTree/leastParent.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/Rain.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/ThreeNum.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/province.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/binaryTree/TraverseNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/string/NoDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/string/IpRecover.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/string/reverseString.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/string/menuString.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/string/Inclusion.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/string/CommonPre.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/DPandGreedy/Doll.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/DPandGreedy/MinimumTotal.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/DPandGreedy/Stock.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/Nqueue.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/DPandGreedy/MaxSquare.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/MaxLand.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/GetKMax.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/squence/QuickSquence.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/SpecialStructAndMethod.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/rorateArray.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/martix/mergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/linkList/LRU.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/linkList/DoubleLinkedListNode.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/squence/MergeSquence.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/squence/HeapSquence.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/WaitNotify.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/Print100.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/thread/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/thread/StepPrint.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/thread/ThreeThread.java" />
+        <option value="$PROJECT_DIR$/src/gongdao2021/thread/H2O.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="576" />
+    <option name="height" value="315" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practices" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gongdao2021" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="doAcquireSharedInterruptibly&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer#doAcquireSharedInterruptibly&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625847017558" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../snetinel/Sentinel" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33054003" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\practices\src\pattern\factory\factory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ZeroEvenOdd">
+    <configuration name="Print100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.Print100" />
+      <module name="practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gongdao2021.thread.StepPrint" />
+      <module name="practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gongdao2021.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.TwoThread" />
+      <module name="practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.WaitNotify" />
+      <module name="practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.ZeroEvenOdd" />
+      <module name="practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Print100" />
+      <item itemvalue="Application.StepPrint" />
+      <item itemvalue="Application.WaitNotify" />
+      <item itemvalue="Application.TwoThread" />
+      <item itemvalue="Application.ZeroEvenOdd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZeroEvenOdd" />
+        <item itemvalue="Application.StepPrint" />
+        <item itemvalue="Application.TwoThread" />
+        <item itemvalue="Application.WaitNotify" />
+        <item itemvalue="Application.Print100" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c180a047-6e94-49ac-b7b1-32cbeba09b75" name="Default Changelist" comment="" />
+      <created>1551235243206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551235243206</updated>
+      <workItem from="1551235247400" duration="113410000" />
+      <workItem from="1552962765814" duration="18252000" />
+      <workItem from="1553045488561" duration="41968000" />
+      <workItem from="1553667997164" duration="41467000" />
+      <workItem from="1554683911707" duration="32566000" />
+      <workItem from="1555743701773" duration="1822000" />
+      <workItem from="1555758042595" duration="5704000" />
+      <workItem from="1557038964247" duration="2796000" />
+      <workItem from="1559547917862" duration="1040000" />
+      <workItem from="1560752885426" duration="97770000" />
+      <workItem from="1562028133953" duration="26782000" />
+      <workItem from="1562898972474" duration="9855000" />
+      <workItem from="1563965494047" duration="6310000" />
+      <workItem from="1564216936755" duration="19029000" />
+      <workItem from="1565061788685" duration="10902000" />
+      <workItem from="1567841758213" duration="800000" />
+      <workItem from="1567996414736" duration="4365000" />
+      <workItem from="1572242737300" duration="16128000" />
+      <workItem from="1573029402819" duration="4508000" />
+      <workItem from="1573435232327" duration="6235000" />
+      <workItem from="1575883669858" duration="1798000" />
+      <workItem from="1576048843144" duration="745000" />
+      <workItem from="1576565482953" duration="10021000" />
+      <workItem from="1587552676318" duration="17289000" />
+      <workItem from="1588727759549" duration="5920000" />
+      <workItem from="1589763620041" duration="40969000" />
+      <workItem from="1592380080718" duration="3177000" />
+      <workItem from="1592787482838" duration="1220000" />
+      <workItem from="1596006895646" duration="1255000" />
+      <workItem from="1597388249170" duration="19661000" />
+      <workItem from="1598516048240" duration="9363000" />
+      <workItem from="1600139883243" duration="29686000" />
+      <workItem from="1602830165849" duration="19504000" />
+      <workItem from="1612876641376" duration="598000" />
+      <workItem from="1612946538322" duration="3924000" />
+      <workItem from="1613397748501" duration="1852000" />
+      <workItem from="1613743886825" duration="2244000" />
+      <workItem from="1613746589679" duration="4342000" />
+      <workItem from="1617454508887" duration="1221000" />
+      <workItem from="1618239985217" duration="2747000" />
+      <workItem from="1620199204284" duration="2445000" />
+      <workItem from="1622381777223" duration="11105000" />
+      <workItem from="1622642577826" duration="9034000" />
+      <workItem from="1622874574012" duration="14747000" />
+      <workItem from="1623249031024" duration="71919000" />
+      <workItem from="1624457401885" duration="16484000" />
+      <workItem from="1624803571290" duration="29000" />
+      <workItem from="1624803630615" duration="173000" />
+      <workItem from="1624803867979" duration="492000" />
+      <workItem from="1624804652276" duration="19000" />
+      <workItem from="1624805704084" duration="4118000" />
+      <workItem from="1624978297110" duration="11980000" />
+      <workItem from="1625380246086" duration="17830000" />
+      <workItem from="1626101010214" duration="718000" />
+      <workItem from="1626101955441" duration="62000" />
+      <workItem from="1626102257880" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="801193000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21018593" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="JRebel remote servers log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32562277" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.12989324" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.113879" />
+      <window_info anchor="bottom" id="JRebel Executor" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.07473309" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.22064057" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="GenProtobuf" order="14" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50078493" side_tool="true" weight="0.13197425" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32983023" />
+      <window_info anchor="right" id="Ant Build" order="3" sideWeight="0.49921507" weight="0.08973323" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3299356" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/ac2tree/tree_arraylist.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/ac2tree/tree_arraylist.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/chess.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/chess.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/acstack/StackMin.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/acstack/StackMin.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/MatrixPower.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/MatrixPower.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/MatrixPower.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/MatrixPower.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/ArrayTest.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/ArrayTest.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/ac2tree/RemoveNode.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/ac2tree/SerailizeTree.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/ac2tree/SerailizeTree.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/acstack/StackReverse.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/MinChange.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/MinChange.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/MinChange.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/ChangeNum2.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/ChangeNum2.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/ChangeNum2.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/ChangeNum2.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/bTest.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/bTest.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/cTest.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/cTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/dTest.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/dTest.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/AbstractCalculator.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/Plus.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/AbstractCalculator.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/Test.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Test.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Test.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/MyCommand.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/MyCommand.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Receiver.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Invoker.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Invoker.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/adapterAll/classAdapter/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/adapterAll/classAdapter/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/adapterAll/classAdapter/Test.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/adapterAll/classAdapter/Test.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/adapterAll/classAdapter/ConcreteTarget.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/adapterAll/classAdapter/Adapter.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/adapterAll/classAdapter/adaptee.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/strategy/Test.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/strategy/Test.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/strategy/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/strategy/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/strategy/Plus.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/strategy/Plus.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/dynamicProxy/ClientTest.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/dynamicProxy/ClientTest.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/dynamicProxy/ClientTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/dynamicProxy/ClientTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/dynamicProxy/ClientTest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/dynamicProxy/ClientTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/proxy/ProxyTest.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/proxy/Source.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/proxy/proxy.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/proxy/proxy.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pattern/proxytotal/proxy/proxy.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/transfer.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/transfer.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/transfer.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/transfer.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/decisionRepeat.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/decisionRepeat.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/decisionRepeat.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/String/decisionRepeat.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/radixSort.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/radixSort.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquenceCover.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/QuickSquenceConver.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/QuickSquenceConver.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/QuickSquenceConver.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/QuickSquenceConver.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/QuickSquenceConver.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaCore/Interface_proxy.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jvm/classload/SuperClass.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/radixSortCover.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/seqencing/radixSortCover.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/WaitNotify.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/ArrayList.java</url>
+          <line>233</line>
+          <properties />
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/ArrayList.java</url>
+          <line>234</line>
+          <properties />
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/HashMap.java</url>
+          <line>627</line>
+          <properties />
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>208</line>
+          <properties />
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/project/Test.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>206</line>
+          <properties />
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>284</line>
+          <properties />
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/project/Test.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>857</line>
+          <properties />
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>2034</line>
+          <properties />
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/martix_k.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/martix_k.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/matrix/martix_k.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/linkedlist/reverse.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/linkedlist/test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spring/Test1.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spring/Test3.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spring/Test3.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spring/Test3.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spring/Test3.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/TreeNode/sumNumbers.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="507" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/TreeNode/sumNumbers.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arithmetic/TreeNode/sumNumbers.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/binaryTree/SerratedTree.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="510" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/binaryTree/SerratedTree.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="511" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/binaryTree/SerratedTree.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/binaryTree/SerratedTree.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/linkList/ReverseNode.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/linkList/ReverseNode.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/SpecialStructAndMethod.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="522" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="526" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/AbstractCalculator.java</url>
+          <line>9</line>
+          <properties class="pattern.templatemethond.AbstractCalculator" method="calculate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pattern/templatemethond/Plus.java</url>
+          <line>4</line>
+          <properties class="pattern.templatemethond.Plus" method="calculate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pattern/command/Command.java</url>
+          <line>3</line>
+          <properties class="pattern.command.Command" method="exe">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>n.get(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>A[end--]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>A[start++]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fin[length-1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lock</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getParentIndex(arr.length-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/province.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/NextPermutation.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/Rain.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/DPandGreedy/MinimumTotal.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/DPandGreedy/Stock.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/Nqueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/MaxLand.java" />
+    <entry file="file://$PROJECT_DIR$/src/arithmetic/seqencing/quickSquence.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/AllPermutation.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/GetKMax.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/rorateArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/backtrack/QuickSquence.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/martix/mergeIntervals.java" />
+    <entry file="file://$PROJECT_DIR$/src/Stream/StreamTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/SpecialStructAndMethod.java" />
+    <entry file="jar://D:/java/jdk8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/practices/gongdao2021/martix/Rain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/practices/gongdao2021/SpecialStructAndMethod.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/DPandGreedy/Doll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/DPandGreedy/MaxSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/binaryTree/leastParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/linkList/DoubleLinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arithmetic/seqencing/MergeSortSquence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/squence/QuickSquence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/squence/HeapSquence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/linkList/LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/backtrack/HeapSquence.java" />
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/string/CommonPre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/CountExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/squence/MergeSquence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arithmetic/seqencing/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="500" column="22" selection-start-line="500" selection-start-column="22" selection-end-line="500" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/TwoThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/Synchronizetest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/SquenceMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="1728" column="20" selection-start-line="1728" selection-start-column="20" selection-end-line="1728" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/util/function/IntConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/thread/StepPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/thread/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/thread/ThreeThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ZeroEvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="101" column="30" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gongdao2021/thread/H2O.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/lang/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="115" column="44" selection-start-line="115" selection-start-column="39" selection-end-line="115" selection-end-column="65" />
+          <folding>
+            <element signature="e#8176#8177#0" expanded="true" />
+            <element signature="e#8216#8217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17402">
+          <caret line="836" column="36" selection-start-line="836" selection-start-column="36" selection-end-line="836" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk8/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7436">
+          <caret line="372" column="12" selection-start-line="372" selection-start-column="12" selection-end-line="372" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/Print100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ConcurrentHashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33054003" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>practices</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33054003" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
